@@ -3,7 +3,7 @@
 I'm a passionate **software developer** focused on full-stack development. Currently working on improving my skills in **Java**, **JavaScript**, and **Spring Boot**. Always eager to learn new technologies and build meaningful projects. 🚀
 
 ## Connect with Me 🌐
-[LinkedIn](https://www.linkedin.com/in/ishan-tripathi-891b31229/) | [Email](mailto:ishantripathidoc@gmail.com) | [GitHub](https://github.com/Reallyishan009) | [Portfolio](https://github.com/Reallyishan009/portfolio) | [YouTube](https://www.youtube.com/channel/UCXXXXXXX) | [Twitter](https://twitter.com/YourTwitterHandle)
+[LinkedIn](https://www.linkedin.com/in/ishan-tripathi-891b31229/) | [Email](mailto:ishantripathidoc@gmail.com) | [GitHub](https://github.com/Reallyishan009) |  [YouTube](https://www.youtube.com/@Reallyishan) | 
 
 ## Interesting Facts 🤔
 - 🔭 I love **Problem Solving** and **Application Development**!
