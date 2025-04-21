@@ -68,6 +68,10 @@ I'm a passionate **software developer** focused on full-stack development. Curre
 ![HackerRank](https://img.shields.io/badge/HackerRank-2%20Stars-brightgreen)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1600%20Rating-yellow)
 
+### 🔢 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Reallyishan009?theme=light&font=Fira%20Code&ext=activity)
+
+
 ## 📂 Open-source Projects
 
 - [Simple Online Store - Java Web App](https://github.com/Reallyishan009/simple-online-store)
@@ -75,7 +79,9 @@ I'm a passionate **software developer** focused on full-stack development. Curre
 
 ## 📊 GitHub Stats
 
-![Ishan Tripathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reallyishan009&show_icons=true&count_private=true)
+![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reallyishan009&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reallyishan009&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reallyishan009&theme=dark&hide_border=true)
 
 ## 📈 GitHub Activity Graph
 
