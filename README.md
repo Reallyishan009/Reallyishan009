@@ -18,6 +18,14 @@ I'm a passionate **software developer** focused on full-stack development. Curre
 
 ## 🚀 My Skills & Tech Stacks
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-5%20Stars-brightgreen)
+![GitHub Views](https://img.shields.io/badge/GitHub%20Profile%20Views-1000-orange)
+
+**Languages**: Java, JavaScript, Python, SQL
+
+
 ### 👨🏻‍💻 Languages
 - Java, JavaScript, Python, SQL
 
