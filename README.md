@@ -23,7 +23,7 @@ I'm a passionate **software developer** focused on full-stack development. Curre
 ## 📬 How to reach me
 
 - LinkedIn: [Ishan Tripathi](https://www.linkedin.com/in/ishan-tripathi-891b31229/)
-- Email: [your-email@example.com](ishantripathidoc@gmail.com)
+- Email: [ishantripathidoc@gmail.com]
 
 ## 📊 GitHub Stats
 
