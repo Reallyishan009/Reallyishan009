@@ -69,7 +69,8 @@ I'm a passionate **software developer** focused on full-stack development. Curre
 ![Codeforces](https://img.shields.io/badge/Codeforces-1600%20Rating-yellow)
 
 ### 🔢 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Reallyishan009?theme=light&font=Fira%20Code&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/IshanTripathi09?theme=light&font=Fira%20Code&ext=activity)
+
 
 
 ## 📂 Open-source Projects
