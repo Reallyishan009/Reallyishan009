@@ -59,6 +59,8 @@
 - 🧩 Solving DSA at [LeetCode](https://leetcode.com/IshanTripathi09)
 - 💻 Practicing on [HackerRank](https://www.hackerrank.com/ishantripathidoc)
 - ⚔️ Rated on [Codeforces](https://codeforces.com/profile/Reallyishan009)
+- 📘 Learning and contributing on [GeeksforGeeks](https://www.geeksforgeeks.org/user/reallyishan/)
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/IshanTripathi09?theme=light&font=Fira%20Code&ext=activity)
 
