@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random GIF Display</title>
+</head>
+<body>
+  <h1>Random GIF from Giphy API</h1>
+  <img id="gif-container" src="" alt="Random GIF" width="500">
+  <script>
+    fetch('https://api.giphy.com/v1/gifs/random?api_key=WQ3uvKrxVv3TSVYj2WSrfzzuqJuTF7MG')
+      .then(response => response.json())
+      .then(data => {
+        const gifUrl = data.data[0].images.original.url;
+        document.getElementById('gif-container').src = gifUrl;
+      });
+  </script>
+</body>
+</html>
