@@ -4,7 +4,6 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=22&center=true&vCenter=true&width=1000&lines=Software+Developer+%7C+Full-Stack+Web+Developer;Java+%7C+JavaScript+%7C+Spring+Boot+Enthusiast;Passionate+about+Problem+Solving+%26+System+Design)
 
-<img align='right' src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="230">
 
 ## 🚀 About Me
 
