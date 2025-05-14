@@ -68,8 +68,12 @@
 
 ## 📂 Projects I'm Proud Of
 
-- 🎯 [Simple Online Store (Java Web App)](https://github.com/Reallyishan009/simple-online-store)
-- 🌐 [Portfolio Website](https://github.com/Reallyishan009/portfolio)
+- 📱 [Public Holiday App (React)](https://github.com/Reallyishan009/React-Projects/tree/main/Public%20Holiday%20App/holidayApp)
+- 🕹️ [Snake Game](https://github.com/Reallyishan009/Projects/tree/main/SnakeGame2)
+- 🌤️ [Weather API Project](https://github.com/Reallyishan009/Projects/tree/main/Coursera%20Weather%20API%20project)
+- 📚 [Library Management System (Java)](https://github.com/Reallyishan009/Projects/tree/main/Library)
+- 🗂️ [Kanban Project](https://github.com/Reallyishan009/Projects/tree/main/ScalerKanbanproject)
+
 
 ---
 
