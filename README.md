@@ -4,8 +4,6 @@
 
 <img align='right' src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="230">
 
-
-
 ## 🚀 About Me
 
 - 🎓 Civil Engineering grad turned **Full-Stack Developer**  
@@ -63,7 +61,6 @@
 - ⚔️ Rated on [Codeforces](https://codeforces.com/profile/Reallyishan009)
 - 📘 Learning and contributing on [GeeksforGeeks](https://www.geeksforgeeks.org/user/reallyishan/)
 
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/IshanTripathi09?theme=light&font=Fira%20Code&ext=activity)
 
 ---
@@ -75,7 +72,6 @@
 - 🌤️ [Weather API Project](https://github.com/Reallyishan009/Projects/tree/main/Coursera%20Weather%20API%20project)
 - 📚 [Library Management System (Java)](https://github.com/Reallyishan009/Projects/tree/main/Library)
 - 🗂️ [Kanban Project](https://github.com/Reallyishan009/Projects/tree/main/ScalerKanbanproject)
-
 
 ---
 
@@ -95,5 +91,3 @@ I’m always open to:
 - Tech chats over coffee ☕ or code 🤓
 
 **Thanks for stopping by! Let’s connect and grow together 🚀**
-
----
