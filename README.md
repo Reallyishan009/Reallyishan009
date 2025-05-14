@@ -1,7 +1,8 @@
 ![My GIF](https://private-user-images.githubusercontent.com/54855567/264602790-5eae7e16-c064-4de3-bb3d-42725c78d633.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMTA0NTMsIm5iZiI6MTc0NzIxMDE1MywicGF0aCI6Ii81NDg1NTU2Ny8yNjQ2MDI3OTAtNWVhZTdlMTYtYzA2NC00ZGUzLWJiM2QtNDI3MjVjNzhkNjMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDA4MDkxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjQ2Zjk4OThiOWY3Yzk1MDc0N2IyYTI1MGNiYTc5MDEwNTA4MWU5YjFiM2M4OWE2ZTNhNzJiNmU1YmJjYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mgy1K8ea7ulrELuhYP09hYR5ILFwP8LF-GvdVXg5Fzw)
 
 
-![Random GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Random GIF](https://Reallyishan009.github.io/Reallyishan009)
+
 # 👋 Hi there, I'm Ishan Tripathi
 
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=22&center=true&vCenter=true&width=1000&lines=Software+Developer+%7C+Full-Stack+Web+Developer;Java+%7C+JavaScript+%7C+Spring+Boot+Enthusiast;Passionate+about+Problem+Solving+%26+System+Design)
