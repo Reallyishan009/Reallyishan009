@@ -1,18 +1,19 @@
-<!-- Profile GIF -->
 ![My GIF](https://private-user-images.githubusercontent.com/54855567/264602790-5eae7e16-c064-4de3-bb3d-42725c78d633.gif)
 
 # 👋 Hi there, I'm Ishan Tripathi
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=22&center=true&vCenter=true&width=1000&lines=Software+Developer+%7C+Full-Stack+Web+Developer;Java+%7C+JavaScript+%7C+Spring+Boot+%7C+React+Specialist;Passionate+about+Problem+Solving+%26+System+Design)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=22&center=true&vCenter=true&width=1000&lines=Full-Stack+Software+Developer+%40+Playgg.in;Java+%7C+JavaScript+%7C+Spring+Boot+%7C+React;Passionate+about+Problem+Solving+%26+System+Design)
 
 ---
 
 ## 🚀 About Me
-- 🎓 Civil Engineering graduate turned passionate **Full-Stack Developer**  
-- 🔭 Architecting scalable, performant applications using **Java**, **Spring Boot**, **React**, and modern web stacks
-- 📚 Deepening expertise in **Data Structures & Algorithms** for high-impact coding interviews
-- 🎯 **2025 Goals:** Master **AWS Cloud**, build next-gen scalable apps, contribute to **open-source**
-- 💡 Committed to lifelong learning with **Scaler Academy**
-- ♟ Chess strategist, fitness enthusiast, and hobby guitarist 🎸
+- 💼 **Currently:** Full-Stack Software Developer at **Playgg.in**, building scalable E-sports and gaming arena platforms.
+- 🎓 Civil Engineering graduate turned passionate **Full-Stack Developer**.
+- 🔭 Architecting scalable, performant applications using **Java**, **Spring Boot**, **React**, and modern web stacks.
+- 📚 Deepening expertise in **Data Structures & Algorithms** for high-impact coding interviews.
+- 🗣️ Multilingual tech enthusiast with proficiency in **German**.
+- 🎯 **2025 Goals:** Master **AWS Cloud**, build next-gen scalable apps, contribute to **open-source**.
+- 💡 Committed to lifelong learning with **Scaler Academy**.
+- ♟ Chess strategist, fitness enthusiast, and hobby guitarist 🎸.
 
 ---
 
@@ -63,7 +64,16 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Work & Projects
+
+### 🎮 Playgg.in Core Platform & Arm
+Leading full-stack development for **PlayGG**, a comprehensive E-sports and gaming cafe booking network. Built complex architecture including real-time rig bookings, custom wallet infrastructure (GG Coins), integrated secure payment gateways (Razorpay), telecom SMS routing, and Dynamic QR Check-in systems.  
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT • Tailwind CSS  
+🔗 **Live Platform:** [Playgg.in](https://playgg.in)
+
+### 📊 Ceased CRM
+Developed a robust Customer Relationship Management (CRM) system designed to streamline client interactions, track leads, and optimize workflow pipelines for business operations.  
+**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js) 
 
 ### 🏘 Neighborhood Resource Sharing App
 A **full-stack web application** enabling neighbors to share and borrow items within their community.  
@@ -71,23 +81,17 @@ A **full-stack web application** enabling neighbors to share and borrow items wi
 🔗 **Live App:** [neighbourhood-frontend-theta.vercel.app](https://neighbourhood-frontend-theta.vercel.app)  
 [View Repository](https://github.com/Reallyishan009/Neighbourhood-share)
 
----
-
 ### 🚀 PingUp — The Modern Social Media Experience
 A **next-gen social platform** where users connect, share, and engage in real time. Designed for **speed, scalability, and security**.  
 **Tech Stack:** React • Node.js • Express • MongoDB  
 🔗 **Live App:** [pingup-frontend-five.vercel.app](https://pingup-frontend-five.vercel.app)  
 [View Repository](https://github.com/Reallyishan009/PingUp-SocialMediaApp)
 
----
-
 ### 🎬 QuickShow — Movie Ticket Booking Platform
 Inspired by BookMyShow, a **full-stack ticketing app** for browsing movies, booking seats, and making payments.  
 **Tech Stack:** React • Node.js • Express • MongoDB  
 🔗 **Live App:** [quickshow-sigma.vercel.app](https://quickshow-sigma.vercel.app/)  
 [View Repository](https://github.com/Reallyishan009/QuickShow)
-
----
 
 ### 🎥 IMDB-Clone  
 A **modern IMDb-inspired movie database app** to browse movies & TV shows. Built for performance with **React + TypeScript + Vite**.  
