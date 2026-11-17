@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Ishan Tripathi, full-stack developer in Lucknow. Software, built like structures.">
+<style>
+.fade{opacity:0;animation:f .9s ease forwards}
+.draw{stroke-dasharray:1200;stroke-dashoffset:1200;animation:d 2.2s ease forwards}
+@keyframes f{to{opacity:1}}
+@keyframes d{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.fade{opacity:1;animation:none}.draw{stroke-dashoffset:0;animation:none}}
+</style>
+<rect width="1000" height="300" rx="14" fill="#fbfaf7"/>
+<rect x=".5" y=".5" width="999" height="299" rx="14" fill="none" stroke="#d6d2c8"/>
+<text x="60" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="4" fill="#9a6b1c" class="fade" style="animation-delay:.2s">FULL-STACK DEVELOPER · LUCKNOW</text>
+<text x="58" y="124" font-family="Georgia,'Times New Roman',serif" font-size="64" fill="#1b1f24" class="fade" style="animation-delay:.4s">Ishan Tripathi</text>
+<text x="60" y="160" font-family="Georgia,'Times New Roman',serif" font-size="21" font-style="italic" fill="#6a7380" class="fade" style="animation-delay:.7s">Software, built like structures: load-bearing, tested, made to last.</text>
+<path d="M68 200H568" stroke="#d6d2c8" stroke-width="1.5" class="draw" style="animation-delay:1s"/>
+<circle cx="68" cy="200" r="5" fill="#fbfaf7" stroke="#9a6b1c" stroke-width="1.6" class="fade" style="animation-delay:1.2s"/><text x="63" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9a6b1c" class="fade" style="animation-delay:1.2s">2018</text><text x="63" y="246" font-family="Georgia,'Times New Roman',serif" font-size="14" fill="#6a7380" class="fade" style="animation-delay:1.3s">B.Tech, Civil Engineering</text><circle cx="318" cy="200" r="5" fill="#fbfaf7" stroke="#9a6b1c" stroke-width="1.6" class="fade" style="animation-delay:1.5s"/><text x="313" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9a6b1c" class="fade" style="animation-delay:1.5s">2023</text><text x="313" y="246" font-family="Georgia,'Times New Roman',serif" font-size="14" fill="#6a7380" class="fade" style="animation-delay:1.6s">Masters, Public Admin.</text><circle cx="568" cy="200" r="5" fill="#fbfaf7" stroke="#9a6b1c" stroke-width="1.6" class="fade" style="animation-delay:1.7999999999999998s"/><text x="563" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9a6b1c" class="fade" style="animation-delay:1.7999999999999998s">2025</text><text x="563" y="246" font-family="Georgia,'Times New Roman',serif" font-size="14" fill="#6a7380" class="fade" style="animation-delay:1.9s">Full-stack products</text>
+</svg>
